@@ -1,0 +1,22 @@
+{
+    "name":"Info GTK",
+    "short_name":"GTK",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color":"#e3f5ff",
+    "theme_color":"black",
+    "scope": ".",
+    "description":"Dashboard untuk guru dan info GTK",
+    "icons":[
+    {
+    "src":"images/android-192x192.png",                      
+    "sizes":"192x192",
+    "type":"image/png"
+    },
+    {
+    "src":"images/android-icon-192x192.png",
+    "sizes":"192x192",
+    "type":"image/png"
+    }
+  ]
+}
