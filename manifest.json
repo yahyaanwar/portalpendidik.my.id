@@ -9,8 +9,8 @@
     "description":"Dashboard untuk guru dan info GTK",
     "icons":[
     {
-    "src":"images/android-192x192.png",                      
-    "sizes":"192x192",
+    "src":"images/android-icon-48x48.png",                      
+    "sizes":"48x48",
     "type":"image/png"
     },
     {
